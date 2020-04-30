@@ -15,3 +15,7 @@
 5. Rodar aplicação pelo eclipse ou pelo jar: https://drive.google.com/open?id=14orOpxXUmMuoXodjJ0eMU0s4nR5LXblq
 
 ### Documentação da API utilizando SWAGGER:
+
+http://localhost:9888/swagger-ui.html#/
+
+![swagger](https://user-images.githubusercontent.com/42396610/80668026-1cf85700-8a77-11ea-86ab-5c092b44a030.jpeg)
