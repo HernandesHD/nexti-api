@@ -1,6 +1,6 @@
 # API Handson - DESAFIO-NEXTI-JR
 
-### Tecnologias usadas:
+### Tecnologias utilizadas:
 
   1. `Java 8`
   2. `Spring 2.2.5`
