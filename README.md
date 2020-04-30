@@ -6,7 +6,7 @@
 2. Spring 2.2.5
 3. MySQL 5.7.24 | Port 3306
 
-### Rodando aplicação.
+### Inicializando aplicação.
 
 1. Iniciar MySQL e criar banco de dados chamado 'nexti-handson', as tabelas serão geradas automaticamente. Observação: estou disponibilizando uma tabela populada com os dados que utilizei. Caso desejem usá-la: https://drive.google.com/open?id=1TRjmKiA-0EBp3XLiJ5svO85gKgUoadmW
 2. Realizar download deste repositório.
